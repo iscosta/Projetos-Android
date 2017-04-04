@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Persistência</string>
+    <string name="title_activity_formulario">Cadastro de Produto</string>
+</resources>
