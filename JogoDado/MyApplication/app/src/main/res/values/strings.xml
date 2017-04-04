@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strAndroid">Android</string>
+    <string name="strVoce">Voce</string>
+    <string name="strResultado">Nessa rodada deu:</string>
+    <string name="strEmpate">Empate</string>
+</resources>
